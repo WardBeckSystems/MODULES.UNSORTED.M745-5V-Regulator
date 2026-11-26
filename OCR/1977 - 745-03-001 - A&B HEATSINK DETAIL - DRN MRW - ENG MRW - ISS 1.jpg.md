@@ -35,7 +35,7 @@ Wiki page: [M745](../../../../PAGES/M745.md)
 - **Words (OCR):** 47 in 45 lines: NOTES · I.REMOVE · ALL BURRS · SHARP · 430 · EDGES · '136 DIA · 75DIA · 23 DIa · 215 · MATERIAL · 125 AL ALLOY
 - **Title block:** (280, 12)–(432, 81) mm: REVISION · APP · ISSUE |DATE · WBS · WARD-BECK SYSTEMS · MW · DRN. · ENG.MRN 10/77 · M745A4B · cKo.RL · HEAT Sink DETAIL · APP · ISSUE · FULl · SCALE · 745-03-001
 
-Every curve, box, word and wire group: [1977 - 745-03-001 - A&B HEATSINK DETAIL - DRN MRW - ENG MRW - ISS 1 (traced).json](../MECHANICAL/1977%20-%20745-03-001%20-%20A%26B%20HEATSINK%20DETAIL%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1977 - 745-03-001 - A&B HEATSINK DETAIL - DRN MRW - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 745-03-001 - A&B HEATSINK DETAIL - DRN MRW - ENG MRW - ISS 1 (traced).json](../MECHANICAL/1977%20-%20745-03-001%20-%20A%26B%20HEATSINK%20DETAIL%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 745-03-001 - A&B HEATSINK DETAIL - DRN MRW - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

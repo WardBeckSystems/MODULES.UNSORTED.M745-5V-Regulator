@@ -38,7 +38,7 @@ Wiki page: [M745](../../../../PAGES/M745.md)
 - **Title block:** (157, 28)–(392, 77) mm: ISS MOD IICKD · USED ON · MATL · WARD-BECK · WBS · DRN · GEB · M 745 B · DATE SEPT 74 5 VoLt · AMP · FIMISH · CKD · SCHEMATIC · SCALE · TOLS · 745 · 02 00 3
 - **Wiring (first pass):** 23 connected wire groups from 195 runs; labelled ends: 432 mm → LM323k, 1/35, 10/25, c2; 118 mm → LM323k, 4 A, Ci, 1/35; 47 mm → ISS_, SCHEMATIC, 745, 02; 37 mm → TOLS; 27 mm → TOLS
 
-Every curve, box, word and wire group: [1974 - 745-02-003 - M745B 5 VOLT 3 AMP REGULATOR SCHEMATIC - DRN GEB (traced).json](../SCHEMATICS/1974%20-%20745-02-003%20-%20M745B%205%20VOLT%203%20AMP%20REGULATOR%20SCHEMATIC%20-%20DRN%20GEB%20(traced).json) (the CAD file: `1974 - 745-02-003 - M745B 5 VOLT 3 AMP REGULATOR SCHEMATIC - DRN GEB (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 745-02-003 - M745B 5 VOLT 3 AMP REGULATOR SCHEMATIC - DRN GEB (traced).json](../SCHEMATICS/1974%20-%20745-02-003%20-%20M745B%205%20VOLT%203%20AMP%20REGULATOR%20SCHEMATIC%20-%20DRN%20GEB%20%28traced%29.json) (the CAD file: `1974 - 745-02-003 - M745B 5 VOLT 3 AMP REGULATOR SCHEMATIC - DRN GEB (traced).dxf`).
 
 ## Full text
 
